@@ -1,0 +1,8 @@
+*.sqlite3
+pyvenv.cfg
+__pycache__/
+*.pyc
+Lib/
+Scripts/
+.vscode/
+New Text Document.txt
